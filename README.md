@@ -1,1 +1,2 @@
 To create a payment transfer system that is used to initiate a fund transfer from sender to receiver. The project should validate for customerid, bic code and if overdraft available or not. Also the receiver name should not be in the OFAC list. If all validations are correct then the transaction should initiate, inserting a record in the database.
+![Schema](https://user-images.githubusercontent.com/52326094/219907558-e4f5a5e5-afe0-4a05-adcf-d8c6d5ff14cd.jpeg)
